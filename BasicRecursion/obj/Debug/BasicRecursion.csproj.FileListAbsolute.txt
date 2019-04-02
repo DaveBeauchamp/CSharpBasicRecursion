@@ -1,0 +1,7 @@
+C:\GitRepos\C#\BasicRecursion\BasicRecursion\bin\Debug\BasicRecursion.exe.config
+C:\GitRepos\C#\BasicRecursion\BasicRecursion\bin\Debug\BasicRecursion.exe
+C:\GitRepos\C#\BasicRecursion\BasicRecursion\bin\Debug\BasicRecursion.pdb
+C:\GitRepos\C#\BasicRecursion\BasicRecursion\obj\Debug\BasicRecursion.csprojAssemblyReference.cache
+C:\GitRepos\C#\BasicRecursion\BasicRecursion\obj\Debug\BasicRecursion.csproj.CoreCompileInputs.cache
+C:\GitRepos\C#\BasicRecursion\BasicRecursion\obj\Debug\BasicRecursion.exe
+C:\GitRepos\C#\BasicRecursion\BasicRecursion\obj\Debug\BasicRecursion.pdb
